@@ -65,6 +65,7 @@ export const images = () => src('dist/images/**/*')
 
 export const sprite = () => {
   const config = {
+    svg: { namespaceClassnames: false },
     mode: {
       stack: {
         sprite: '../sprite.svg',
