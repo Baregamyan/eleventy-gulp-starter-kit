@@ -28,7 +28,6 @@
     "gulp-cheerio": "^1.0.0",
     "gulp-html": "^3.4.0",
     "gulp-imagemin": "^7.1.0",
-    "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^9.0.0",
     "gulp-rev": "^9.0.0",
     "gulp-rev-rewrite": "^4.0.0",
